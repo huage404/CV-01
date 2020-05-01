@@ -23,7 +23,7 @@ let string = `
 .ball::after{
     width: 50%;
     height: 50%;
-    background-color: #000;
+    background-color: #fff;
     margin: 0 auto;
     border-radius: 50%;
     background: radial-gradient(circle, rgba(0, 0, 0, 1) 25%, rgba(255, 255, 255, 1) 25%);
